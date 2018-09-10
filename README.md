@@ -9,7 +9,7 @@ In this study, we evaluated the efficacy of sample collection approaches and DNA
 Table of markers used within the study.
 | Marker   | F Primer| F Primer Sequence     | R Primer| R Primer Sequence    | Size (bp) | Citation                                    |
 |:--------:|:-------:|:---------------------:|:-------:|:--------------------:|:---------:|:-------------------------------------------:|
-| psbA-trnH| psbAF   | GTTATGCATGAACGTAATGCTC| Trn-HR2 | CGCGCATGGTGGATTCACAAT| 185-887   | Sang *et al.* 1997 and Kress *et al.* 2005  |
+| psbA-trnH | psbAF   | GTTATGCATGAACGTAATGCTC | Trn-HR2 | CGCGCATGGTGGATTCACAAT | 185-887   | Sang *et al.* 1997 and Kress *et al.* 2005  |
 | trnL     | C       | CGAAATCGGTAGACGCTACG  | D       | CGGGATAGAGGGACTTGAAC | 254-653   | Taberlet *et al.* 2007                      |
 | rbcL     | 1F      | ATGTCACCACAAACAGAAAC  | 724R    | TCGCATGTACCTGCAGTAGC | 724       | Fay *et al.* 1997                           |
 

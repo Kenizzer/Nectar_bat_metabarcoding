@@ -7,11 +7,11 @@ In this study, we evaluated the efficacy of sample collection approaches and DNA
 **The sequencing in this study was conducted using a Roche 454 with titanium**
 
 Table of markers used within the study.
-|Marker   |F Primer|F Primer Sequence     |R Primer|R Primer Sequence    |Size (bp)|Citation                                    |
-|:-------:|:------:|:--------------------:|:------:|:-------------------:|:-------:|:------------------------------------------:|
-|psbA-trnH|psbAF   |GTTATGCATGAACGTAATGCTC|Trn-HR2 |CGCGCATGGTGGATTCACAAT|185-887  |Sang *et al.* 1997 and Kress *et al.* 2005  |
-|trnL     |C       |CGAAATCGGTAGACGCTACG  |D       |CGGGATAGAGGGACTTGAAC |254-653  |Taberlet *et al.* 2007                      |
-|rbcL     |1F      |ATGTCACCACAAACAGAAAC  |724R    |TCGCATGTACCTGCAGTAGC |724      |Fay *et al.* 1997                           |
+| Marker   | F Primer| F Primer Sequence     | R Primer| R Primer Sequence    | Size (bp) | Citation                                    |
+|:--------:|:-------:|:---------------------:|:-------:|:--------------------:|:---------:|:-------------------------------------------:|
+| psbA-trnH| psbAF   | GTTATGCATGAACGTAATGCTC| Trn-HR2 | CGCGCATGGTGGATTCACAAT| 185-887   | Sang *et al.* 1997 and Kress *et al.* 2005  |
+| trnL     | C       | CGAAATCGGTAGACGCTACG  | D       | CGGGATAGAGGGACTTGAAC | 254-653   | Taberlet *et al.* 2007                      |
+| rbcL     | 1F      | ATGTCACCACAAACAGAAAC  | 724R    | TCGCATGTACCTGCAGTAGC | 724       | Fay *et al.* 1997                           |
 
 ### Demultiplexing
 
@@ -74,12 +74,12 @@ After which the matrix is imported into Excel for the creation of figures. Indiv
 
 **Citations**
 
-..* Camacho, C., Coulouris, G., Avagyan, V., Ma, N., Papadopoulos, J., Bealer, K., and Madden, T.L. 2009. BLAST+: architecture and applications. BMC Bioinformatics 10: 421. doi:10.1186/1471-2105-10-421.
-..* Caporaso, J.G., Kuczynski, J., Stombaugh, J., Bittinger, K., Bushman, F.D., Costello, E.K., Fierer, N., Peña, A.G., Goodrich, J.K., Gordon, J.I., Huttley, G.A., Kelley, S.T., Knights, D., Koenig, J.E., Ley, R.E., Lozupone, C.A., Mcdonald, D., Muegge, B.D., Pirrung, M., Reeder, J., Sevinsky, J.R., Turnbaugh, P.J., Walters, W.A., Widmann, J., Yatsunenko, T., Zaneveld, J., and Knight, R. 2010. QIIME allows analysis of high- throughput community sequencing data Intensity normalization improves color calling in SOLiD sequencing. Nat. Publ. Gr. 7(5): 335–336. Nature Publishing Group. doi:10.1038/nmeth0510-335.
-..* Edgar, R.C. 2010. Search and clustering orders of magnitude faster than BLAST. Bioinformatics 26(19): 2460–2461. doi:10.1093/bioinformatics/btq461.
-..* Fay, M.F., Swensen, S.M., and Chase, M.W. 1997. Taxonomic affinities of Medusagyne oppositifolia (Medusagynaceae). Kew Bull. 52: 111. doi:10.2307/4117844.
-..* Huson, D.H., Beier, S., Flade, I., Gorska, A., El-Hadidi, M., Mitra, S., Ruscheweyh, H.J., and Tappu, R. 2016. MEGAN Community Edition - Interactive Exploration and Analysis of Large-Scale Microbiome Sequencing Data. PLoS Comput. Biol. 12: 1–12. doi:10.1371/journal.pcbi.1004957.
-..* Kress, W.J., Wurdack, K.J., Zimmer, E.A., Weigt, L.A., and Janzen, D.H. 2005. Use of DNA barcodes to identify flowering plants. Proc. Natl. Acad. Sci. U. S. A. 102: 8369–74. doi:10.1073/pnas.0503123102.
-..* Sang, T., Crawford, D.J., and Stuessy, T.F. 1997. Chloroplast DNA phylogeny, reticulate evolution, and biogeography of Paeonia (Paeoniaceae). Am. J. Bot. 84: 1120–1136. doi:10.2307/2446155.
-..* Taberlet, P., Coissac, E., Pompanon, F., Gielly, L., Miquel, C., Valentini, A., Vermat, T., Corthier, G., Brochmann, C., and Willerslev, E. 2007. Power and limitations of the chloroplast trnL (UAA) intron for plant DNA barcoding. Nucleic Acids Res. 35: e14. doi:10.1093/nar/gkl938.
-..* Tange, O. 2011. GNU Parallel: the command-line power tool. ;login USENIX Mag. 36: 42–47. doi:10.5281/zenodo.16303.
+  * Camacho, C., Coulouris, G., Avagyan, V., Ma, N., Papadopoulos, J., Bealer, K., and Madden, T.L. 2009. BLAST+: architecture and applications. BMC Bioinformatics 10: 421. doi:10.1186/1471-2105-10-421.
+  * Caporaso, J.G., Kuczynski, J., Stombaugh, J., Bittinger, K., Bushman, F.D., Costello, E.K., Fierer, N., Peña, A.G., Goodrich, J.K., Gordon, J.I., Huttley, G.A., Kelley, S.T., Knights, D., Koenig, J.E., Ley, R.E., Lozupone, C.A., Mcdonald, D., Muegge, B.D., Pirrung, M., Reeder, J., Sevinsky, J.R., Turnbaugh, P.J., Walters, W.A., Widmann, J., Yatsunenko, T., Zaneveld, J., and Knight, R. 2010. QIIME allows analysis of high- throughput community sequencing data Intensity normalization improves color calling in SOLiD sequencing. Nat. Publ. Gr. 7(5): 335–336. Nature Publishing Group. doi:10.1038/nmeth0510-335.
+  * Edgar, R.C. 2010. Search and clustering orders of magnitude faster than BLAST. Bioinformatics 26(19): 2460–2461. doi:10.1093/bioinformatics/btq461.
+  * Fay, M.F., Swensen, S.M., and Chase, M.W. 1997. Taxonomic affinities of Medusagyne oppositifolia (Medusagynaceae). Kew Bull. 52: 111. doi:10.2307/4117844.
+  * Huson, D.H., Beier, S., Flade, I., Gorska, A., El-Hadidi, M., Mitra, S., Ruscheweyh, H.J., and Tappu, R. 2016. MEGAN Community Edition - Interactive Exploration and Analysis of Large-Scale Microbiome Sequencing Data. PLoS Comput. Biol. 12: 1–12. doi:10.1371/journal.pcbi.1004957.
+  * Kress, W.J., Wurdack, K.J., Zimmer, E.A., Weigt, L.A., and Janzen, D.H. 2005. Use of DNA barcodes to identify flowering plants. Proc. Natl. Acad. Sci. U. S. A. 102: 8369–74. doi:10.1073/pnas.0503123102.
+  * Sang, T., Crawford, D.J., and Stuessy, T.F. 1997. Chloroplast DNA phylogeny, reticulate evolution, and biogeography of Paeonia (Paeoniaceae). Am. J. Bot. 84: 1120–1136. doi:10.2307/2446155.
+  * Taberlet, P., Coissac, E., Pompanon, F., Gielly, L., Miquel, C., Valentini, A., Vermat, T., Corthier, G., Brochmann, C., and Willerslev, E. 2007. Power and limitations of the chloroplast trnL (UAA) intron for plant DNA barcoding. Nucleic Acids Res. 35: e14. doi:10.1093/nar/gkl938.
+  * Tange, O. 2011. GNU Parallel: the command-line power tool. ;login USENIX Mag. 36: 42–47. doi:10.5281/zenodo.16303.

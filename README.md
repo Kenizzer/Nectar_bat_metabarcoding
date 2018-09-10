@@ -7,6 +7,7 @@ In this study, we evaluated the efficacy of sample collection approaches and DNA
 **The sequencing in this study was conducted using a Roche 454 with titanium**
 
 Table of markers used within the study.
+
 | Marker   | F Primer| F Primer Sequence     | R Primer| R Primer Sequence    | Size (bp) | Citation                                    |
 |:--------:|:-------:|:---------------------:|:-------:|:--------------------:|:---------:|:-------------------------------------------:|
 | psbA-trnH | psbAF   | GTTATGCATGAACGTAATGCTC | Trn-HR2 | CGCGCATGGTGGATTCACAAT | 185-887   | Sang *et al.* 1997 and Kress *et al.* 2005  |

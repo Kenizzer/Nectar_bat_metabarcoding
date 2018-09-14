@@ -14,7 +14,7 @@ Table of markers used within the study.
 | trnL     | C       | CGAAATCGGTAGACGCTACG  | D       | CGGGATAGAGGGACTTGAAC | 254-653   | Taberlet *et al.* 2007                      |
 | rbcL     | 1F      | ATGTCACCACAAACAGAAAC  | 724R    | TCGCATGTACCTGCAGTAGC | 724       | Fay *et al.* 1997                           |
 
-### Demultiplexing
+### Demultiplexing and quality filtering
 
 Sequences were demultiplexed using by MID and quality filtered using **split_libraries.py** (QIIME V1.91; Caporaso *et al.* 2010) using the mapping files provided for each marker (see mapping_files folder). The following settings were used; minimum sequence length of 170 nucleotides, maximum homopolymer size of 8, mean quality score above 25 and allowing for up to 2 primer mismatches. This was done for each primer separately.
 

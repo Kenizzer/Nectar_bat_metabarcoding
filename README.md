@@ -1,4 +1,4 @@
-# Metabarcoding analysis of nectar bat pollen and fecal samples.
+# Metabarcoding analysis of nectar bat pollen and fecal samples
 
 ### Abridged abstract
 
